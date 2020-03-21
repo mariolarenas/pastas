@@ -1,0 +1,18 @@
+h1 {
+    color: bisque;
+    font-size: 3em;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+h2 {
+    color: burlywood;
+    font-size: medium;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background: url(../imagenes/fondo.jpg) no-repeat center top;
+    background-size: cover;
+}
